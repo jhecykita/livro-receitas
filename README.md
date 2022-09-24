@@ -1,4 +1,4 @@
-# Livro de Receitas :cooking
+# Livro de Receitas 🧑‍🍳
 
 Olá! Bla bla bla
 
