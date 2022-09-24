@@ -1,6 +1,6 @@
-# Nome da Receita :smile
+# Nome da Receita 
 
-## Ingredientes
+## Ingredientes 🦐
 #### bla bla bla
 
 ## Modo de Preparo
